@@ -1,2 +1,3 @@
 print ("Where R U")
 print ("I'm OK")
+print ("put your hands up")
